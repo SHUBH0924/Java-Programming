@@ -1,4 +1,4 @@
-package DPP_2;
+package ChapterwithDPP_2;
 
 public class output {
     public static void main(String[] args) {
